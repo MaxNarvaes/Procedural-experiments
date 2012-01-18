@@ -1,0 +1,1 @@
+mxmlc -load-config+=obj\JuegoConfig.xml -debug=true -incremental=true -benchmark=false -static-link-runtime-shared-libraries=true -o obj\Juego634351959001562500
